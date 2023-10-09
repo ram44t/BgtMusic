@@ -1,3 +1,3 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @Doraxmusic
 
 from .config import *
