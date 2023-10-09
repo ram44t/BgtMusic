@@ -1,4 +1,4 @@
-# Powered By @BikashHalder @AdityaHalder
+# Powered By @Doraxmusic
 
 import os
 import re
@@ -90,10 +90,10 @@ LOG_FILE_NAME = "adityalogs.txt"
 ############################
 
 
-# All Images Of Bikash Aditya Player // @BIKASHHALDER @AdityaHalder
-START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg")
+# All Images Of Dora music Player // @Doraxmusic
+START_IMG_URL = getenv("START_IMG_URL", f"https://graph.org/file/9e49c0549b48a3c73094d.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "resource/ping.jpeg")
-PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "resource/playlist.jpeg")
+PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://graph.org/file/74a0f13a62b0c66982122.jpg")
 GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "resource/global.jpeg")
 STATS_IMG_URL = getenv("STATS_IMG_URL", "resource/stats.jpeg")
 TELEGRAM_AUDIO_URL = getenv("TELEGRAM_AUDIO_URL", "resource/audio.jpeg")
